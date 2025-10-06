@@ -27,4 +27,8 @@ A written summary highlights the methodology, key findings, and recommendations 
 - Cleaning real-world messy data using tools in excel 
 - Creating dashboards that tell a story using excel
 - Finding patterns to support decision-making
+
+  ## Dashboard Access
+You can view or download the full **Crimes in L.A. 2020–2024 Dashboard** from OneDrive:  
+[View Dashboard on OneDrive](https://mybac-my.sharepoint.com/:x:/g/personal/bida23-043_thuto_bac_ac_bw/Edm5a3ARlfNIjGwmvvtZJtoBkbLvRz39TETQpQ8GVPq6JQ?e=4MgQRO)
   
